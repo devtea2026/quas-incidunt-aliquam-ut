@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/quas-incidunt-aliquam-ut",
-  "version": "2.10.82",
+  "version": "2.10.83",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -322,5 +322,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/quas-incidunt-aliquam-ut/issues"
   },
-  "packageManager": "yarn@4.3.1"
+  "packageManager": "yarn@4.4.0"
 }
